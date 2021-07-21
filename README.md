@@ -22,7 +22,7 @@ To get a handle on who you are, what your drive is, and how we can best support 
 3. Signup for a Sysdig Platform Trial (https://sysdig.com/company/free-trial-platform/)
 4. Install the Sysdig Agent(s) using the *Getting Started* interface
 5. Install the classic *voting app* into your K8s cluster (https://github.com/dockersamples/example-voting-app)
-6. Get Creative and build some stuff in Sysdig.
+6. Get Creative and build some stuff in Sysdig. Here are some ideas:
     - Scan the images being loaded, what do the results mean?
     - Benchmarks? What's up with those?
     - Enable Runtime Policies, generate some noise (how might you do that?)
